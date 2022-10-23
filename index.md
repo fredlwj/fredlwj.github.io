@@ -1,10 +1,8 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+title: Wei-Ju Liao
+description: "Wei-Ju Liao's website"
 tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: trees.jpg
 ---
 
 I am a PhD candidate in Finance.
