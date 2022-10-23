@@ -11,7 +11,12 @@ owner:
   name:           Wei-Ju Liao
   avatar:         wjliao-square.png
   bio:            Student of Finance and Business Economics
+  location:       Hamilton, ON
   email:          liaow7@mcmaster.ca
+  links:
+  - label: McMaster Univ.
+  icon: fas fa-fw fa-university
+  url: https://phd.degroote.mcmaster.ca/
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: jponttuset
   linkedin: weijuliao
