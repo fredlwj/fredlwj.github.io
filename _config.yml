@@ -29,8 +29,8 @@ owner:
 links:
   - title: Curriculum Vitae
     url: /cv/
-#  - title: Publications
-#    url: /publications/
+  - title: Conference & Publications
+    url: /publications/
 #  - title: Code
 #    url: /code/
 #  - title: Blog
