@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Wei-Ju Liao's website"
 tags: [Jekyll, theme, responsive, blog, template] 
 image:
-feature: panorammountainlake-447435.jpg
+  feature: panorammountainlake-447435.jpg
 ---
 
 I am a PhD student in Finance at <a href="https://www.degroote.mcmaster.ca" target="_blank">DeGroote School of Business</a>, <a href="https://www.mcmaster.ca" target="_blank">McMaster University</a>.
