@@ -1,1 +1,1 @@
-You can download my <a href="https://docs.google.com/document/d/1-JhHqrBjd_ALbUsujqAflgVpYS5OgbkI/edit?usp=sharing&ouid=114140060229367811005&rtpof=true&sd=true" target="_blank">résumé in PDF</a>, or my <a href="https://drive.google.com/file/d/1XN9dn-1obfdMG8CQIvWjHvhpO01Ek1ax/view?usp=sharing" target="_blank">full CV</a>.
+You can download my <a href="" target="_blank">full CV</a>.
