@@ -1,5 +1,5 @@
 ---
-Layout: home2
+Layout: home
 title: Wei-Ju Liao
 description: "Wei-Ju Liao's website"
 tags: [Jekyll, theme, responsive, blog, template]
