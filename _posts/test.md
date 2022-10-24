@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test
-description: "How to post a article."
+description: "How to post an article."
 comments: true
 ---
 
