@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 permalink: /teaching/
 title: My Teaching Experiences
 tags: [teach]
