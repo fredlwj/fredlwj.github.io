@@ -1,7 +1,7 @@
 ---
 layout: teaching
 permalink: /teaching/
-title: My Teaching Experiences
+title: My Teaching Dossier
 tags: [teach]
 modified: 24-10-2022
 comments: false
