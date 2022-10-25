@@ -32,10 +32,10 @@ links:
     url: /cv/
   - title: Publications
     url: /publications/
-  - title: Teaching
-    url: /teaching/
-  - title: Blog
-    url: /blog/
+#  - title: Teaching
+#    url: /teaching/
+#  - title: Blog
+#    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Canada/Eastern
