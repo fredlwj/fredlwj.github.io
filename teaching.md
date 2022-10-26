@@ -8,13 +8,10 @@ comments: false
 ---
 
 ### Teaching Experience and Responsibilities
-
-* COM 3FB3 - Security Analysis<br>
-This course
-
+* COMMERCE 3FB3: Security Analysis<br>
+* COMMERCE 3FA3: <br>
+* COMMERCE 2FA3: <br>
 ### Teaching Effectivness
 Student evaluations
-
 ### Teaching Philosophy
-
 You can download my <a href="https://drive.google.com/file/d/1WoQm7hsK6wXy86wwLZqQ_M7I5N5IxThO/view?usp=sharing" target="_blank">statement of teaching philosophy</a>.
