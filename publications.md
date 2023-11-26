@@ -1,7 +1,7 @@
 ---
 layout: publications
 permalink: /publications/
-title: My Conference Presentations & Publications
+title: My Publications
 tags: [publications]
 modified: 8-7-2014
 comments: false
