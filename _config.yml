@@ -28,14 +28,14 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
-    url: /cv/
+#  - title: Curriculum
+#    url: /cv/
   - title: Publications
     url: /publications/
-#  - title: Teaching
-#    url: /teaching/
-#  - title: Blog
-#    url: /blog/
+  - title: Teaching
+    url: /teaching/
+  - title: Blog
+    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Canada/Eastern
