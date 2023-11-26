@@ -30,10 +30,10 @@ owner:
 links:
 #  - title: Curriculum
 #    url: /cv/
-#  - title: Publications
-#    url: /publications/
-  - title: Teaching
-    url: /teaching/
+  - title: Publications
+    url: /publications/
+#  - title: Teaching
+#    url: /teaching/
   - title: Blog
     url: /blog/
 
