@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: presentations
 permalink: /presentations/
 title: My Presentations
 tags: [presentations]
