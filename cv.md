@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: research
 permalink: /cv/
 title: My CV
 tags: [about]
