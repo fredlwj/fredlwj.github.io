@@ -32,10 +32,10 @@ links:
 #    url: /cv/
 #  - title: Publications
 #    url: /publications/
-  - title: Presentations
-    url: /presentations/
-#  - title: Teaching
-#    url: /teaching/
+#  - title: Presentations
+#    url: /presentations/
+  - title: Teaching
+    url: /teaching/
   - title: Research
     url: /research/
 
