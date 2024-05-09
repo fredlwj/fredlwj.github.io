@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: research
 permalink: /teaching/
 title: Teaching Experiences
 tags: [teach]
