@@ -28,14 +28,14 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-#  - title: Curriculum Vitae
-#    url: /cv/
+  - title: Curriculum Vitae
+    url: /cv/
   - title: Publications
     url: /publications/
   - title: Presentations
     url: /presentations/
-#  - title: Teaching
-#    url: /teaching/
+  - title: Teaching
+    url: /teaching/
 #  - title: Blog
 #    url: /blog/
 
