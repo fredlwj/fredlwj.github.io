@@ -6,4 +6,4 @@ tags: [about]
 modified: 8-7-2014
 comments: false
 ---
-You can also download my full cv.
+You can download my full cv.
