@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: hobby
 permalink: /hobby/
 title: Hobbies
 tags: [hobby]
