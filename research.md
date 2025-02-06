@@ -1,7 +1,7 @@
 ---
 layout: research
 permalink: /research/
-title: My Publications & Works in Progress
+title: Publications & Works in Progress
 tags: [research]
 modified: 09-05-2024
 comments: false
