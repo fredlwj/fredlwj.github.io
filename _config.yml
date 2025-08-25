@@ -10,12 +10,12 @@ disqus_shortname: fredlwj
 owner:
   name:           Wei-Ju Liao
   avatar:         wjliao-square.png
-  bio:            A finance graduate from McMaster University, carrying out research on dividend policy, executive compensation, data breaches, and corporate social responsibility
+  bio:            A finance graduate from McMaster University, carrying out research on dividend policy, capital efficiency, executive compensation, data breaches, and corporate social responsibility
   email:          liaow7@mcmaster.ca
   Gmail:          liaoweiju29@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: jponttuset
-  # university: university
+  university: university
   linkedin: weijuliao
   google_scholar: ewQ8YAoAAAAJ
   # google_plus: 113718226018314522413
@@ -40,8 +40,8 @@ links:
     url: /research/
   - title: Teaching
     url: /teaching/
-  - title: Hobbies
-    url: /hobbies/
+#  - title: Hobbies
+#    url: /hobbies/
 #  - title: Blog
 #    url: /blog/
 
